@@ -9,7 +9,7 @@ This project presents an end-to-end Data Analytics and Machine Learning pipeline
 ---
 
 ## Project Pipeline
-![Pipeline](images/pipeline.jpg)
+![PipeLine](images/PipeLine.jpg)
 
 1. **Data Acquisition**
    - Uploaded the dataset into Power Query.
