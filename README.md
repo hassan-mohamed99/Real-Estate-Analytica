@@ -54,12 +54,14 @@ This project presents an end-to-end Data Analytics and Machine Learning pipeline
 
 Project/
 ├── pipeline.jpg
-├── PowerBI_Dashboard.pbix/
-│   └── page1_dashboard_screenshot.png
-│   └── page2_dashboard_screenshot.png
-├── ML_Model.ipynb
-├── DW_Schema.png
-├── dataset/
-│   ├── data_set.csv 
-│   └── data_ML.csv 
+├── Images/
+│   ├── DWH.PNG
+│   ├── Dashboard_Page1.PNG
+│   ├── Dashboard_Page2.PNG
+│   └── PipeLine.PnG
+├── PowerBI/
+│   └── Property Management Dashboard
+├── ML_Model/
+│   ├── Housing dataset - Copy(2).xlsx 
+│   └── Real_Estate_ML.pbix
 └── README.md
