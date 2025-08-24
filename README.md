@@ -44,7 +44,7 @@ This project presents an end-to-end Data Analytics and Machine Learning pipeline
 ---
 
 ## Features
-- End-to-end project (Extract, Transform, Load).
+- **End-to-end project** (Extract, Transform, Load).
 - **Star Schema modeling**.
 - **Interactive dashboard** in Power BI.
 - **Machine Learning integration** for predictive analytics.
