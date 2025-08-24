@@ -66,4 +66,7 @@ Project/
 ├── ML_Model/
 │   ├── Housing dataset - Copy(2).xlsx 
 │   └── Real_Estate_ML.pbix
+├── UI_Figma/
+│   ├── Background1.png 
+│   └── Background2.png
 └── README.md
