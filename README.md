@@ -28,7 +28,9 @@ This project presents an end-to-end Data Analytics and Machine Learning pipeline
 4. **Create Measures**
    - Defined KPIs and calculated measures in Power BI.
 
-5. Using **Figma** to design custom backgrounds.
+
+5. **Using Figma to design custom backgrounds.**
+
 
 6. **Data Visualization**
    - Designed a **Power BI dashboard with two pages**.
@@ -36,13 +38,13 @@ This project presents an end-to-end Data Analytics and Machine Learning pipeline
 
 7. **Machine Learning**
    - Applied One-Hot Encoding for categorical features.
-   - Built a predictive ML model in Jupyter Notebook to **forecast property prices**.
+   - Built a predictive ML model in Jupyter Notebook to forecast property prices.
    - Using RandomForest Regressor.
 
 ---
 
 ## Features
-- End-to-end **ETL pipeline** (Extract, Transform, Load).
+- End-to-end project (Extract, Transform, Load).
 - **Star Schema modeling**.
 - **Interactive dashboard** in Power BI.
 - **Machine Learning integration** for predictive analytics.
